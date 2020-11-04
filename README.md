@@ -8,11 +8,12 @@
 
 - 🔭 Estou estudando na escola de programação Labenu, para me tornar um Full Stack Web Developer.
 
-- 🌱 Estou entrando no módulo de Back-end, até agora já aprendi Front-end com HTML, CSS, JS, React com Styled-Components, Material-UI, Axios, testes com Jest.
+- 🌱 Até agora já aprendi e todos os dias sigo aprendendo:
+Front-end com HTML, CSS, JS, React com Styled-Components, Material-UI, Axios, testes com Jest.
+Back-end com node.JS, Typescript, AWS, MySql, express, cors, bcryptjs, jsonwebtoken, knex, uuid, dayjs, dotenv e testes com Jest.
+E estou estudando Firebase.
 
 - 👯 Procuro uma oportunidade nessa área, em que possa contribuir com meus conhecimentos e dedicação, e principalmente possa evoluir meus conhecimentos, de forma que possa contribuir ainda mais com a equipe. Sou uma pessoa de fácil convivência e diálogo, e adoro trabalhar em equipe.
-
-- 🤔 Tenho um pouco de dificuldade em Javascript, mas estou estudando para que isso seja sanado.
 
 - 💬 Sou formado em agronegócio, e trabalhei com vendas de implementos agrícolas por alguns anos, mas a cultura de soliedariedade, cumplicidade e integração da área de tecnologia, além do meu forte interesse, contribuíram para que eu entrasse de cabeça e coração no mundo da programação.
 
