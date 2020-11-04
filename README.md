@@ -10,11 +10,11 @@
 
 - 🌱 Até agora já aprendi e todos os dias sigo aprendendo:
 
-Front-end com HTML, CSS, JS, React com Styled-Components, Material-UI, Axios, testes com Jest.
+    Front-end com HTML, CSS, JS, React com Styled-Components, Material-UI, Axios, testes com Jest.
 
-Back-end com node.JS, Typescript, AWS, MySql, express, cors, bcryptjs, jsonwebtoken, knex, uuid, dayjs, dotenv e testes com Jest.
+    Back-end com node.JS, Typescript, AWS, MySql, express, cors, bcryptjs, jsonwebtoken, knex, uuid, dayjs, dotenv e testes com Jest.
 
-No momento estou estudando Firebase.
+    No momento estou estudando Firebase.
 
 - 👯 Procuro uma oportunidade nessa área, em que possa contribuir com meus conhecimentos e dedicação, e principalmente possa evoluir meus conhecimentos, de forma que possa contribuir ainda mais com a equipe. Sou uma pessoa de fácil convivência e diálogo, e adoro trabalhar em equipe.
 
